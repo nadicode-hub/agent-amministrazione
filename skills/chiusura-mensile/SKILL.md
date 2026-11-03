@@ -28,8 +28,9 @@ controllo:
 - [ ] contratti nuovi, leasing, finanziamenti, acquisti di beni durevoli;
 - [ ] domande aperte per il commercialista.
 
-Manda un messaggio breve con il link o gli allegati e la lista di quello che
-manca e perché. Annota cosa hai inviato e quando.
+Prepara un messaggio breve con il link o gli allegati e la lista di quello che
+manca e perché, mostralo alla persona responsabile e invialo dopo il suo sì.
+Annota cosa hai inviato e quando.
 
 ## Il quadro del mese per il titolare
 

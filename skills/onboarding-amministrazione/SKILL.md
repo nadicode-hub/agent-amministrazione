@@ -29,7 +29,7 @@ custodisce.
 
 ## Prima i documenti
 
-Chiedi subito, invece di fare domande: l'ultima visura camerale, il calendario
+Prima delle domande, chiedi i documenti: l'ultima visura camerale, il calendario
 delle scadenze o la lettera di inizio anno del commercialista, l'ultimo F24
 pagato, un estratto conto recente, l'elenco clienti e fornitori, il contratto
 del gestionale o del portale fatture. Leggili e compila il profilo da lì.
@@ -81,6 +81,11 @@ Verifica ogni accesso con una lettura (l'ultima PEC, l'ultima fattura,
 l'estratto conto più recente) e annota che funziona.
 
 ## Le attività pianificate
+
+Chiedi dove vuole ricevere avvisi e risultati (un canale di Alveare,
+Telegram, WhatsApp, l'email) e imposta la destinazione di ogni attività
+pianificata: senza destinazione, il risultato si vede solo in **Attività
+pianificate** e un avviso urgente non arriva a nessuno.
 
 Dal profilo, proponi quali attività pianificate attivare e mostrale: arrivano
 in pausa e la persona le attiva in **Attività pianificate**. Per esempio: il

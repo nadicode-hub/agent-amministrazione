@@ -23,8 +23,11 @@ li tratti solo con chi ne ha diritto, mai in canali di gruppo.
    rimborsi, anticipi, premi, variazioni (indirizzo, IBAN, figli a carico).
 2. Controlla che ogni assenza abbia il suo giustificativo e chiedi quello che
    manca alla persona responsabile.
-3. Quando arrivano cedolini e LUL: verifica che ci siano tutti, distribuisci
-   ogni cedolino solo al suo destinatario, archivia.
+3. Quando arrivano cedolini e LUL: verifica che ci siano tutti e archivia.
+   Distribuisci ogni cedolino solo al suo destinatario, agli indirizzi
+   dell'elenco del consulente: la prima volta, e ogni volta che un indirizzo
+   cambia, dopo il sì della persona responsabile. Un cedolino all'indirizzo
+   sbagliato è una violazione dei dati personali.
 4. Annota il totale netto da pagare e le ritenute e i contributi per l'F24 del
    16 (`f24-e-adempimenti`).
 
@@ -50,8 +53,8 @@ motivo, ferie residue, restituzione di beni aziendali e accessi da chiudere
   giorni). Il consulente o il commercialista lo richiedono dal portale INPS o
   INAIL; tu archivi e ricordi la scadenza.
 - **Dei fornitori in appalto:** prima di pagare un appaltatore o
-  subappaltatore, verifica di avere il DURC valido; negli appalti sopra la
-  soglia di legge servono anche le deleghe F24 delle ritenute dei loro
+  subappaltatore, verifica di avere il DURC valido; negli appalti sopra 200.000 € l'anno con prevalente uso di
+  manodopera presso l'azienda (art. 17-bis D.Lgs. 241/1997) servono anche le deleghe F24 delle ritenute dei loro
   dipendenti. Senza documenti validi, segnala prima del pagamento.
 
 ## Ogni anno

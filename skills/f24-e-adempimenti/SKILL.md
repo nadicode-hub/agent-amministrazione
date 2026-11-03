@@ -47,13 +47,19 @@ Una settimana prima del 16 (o del primo giorno lavorativo dopo):
   quarto trimestre con il saldo annuale.
 - Prepara per il commercialista: registri IVA del periodo, fatture ricevute
   non ancora registrate, note di credito, integrazioni TD17-TD19.
-- La LIPE (comunicazione delle liquidazioni periodiche) si invia entro la fine
-  del secondo mese dopo il trimestre: ricorda la scadenza al commercialista.
+- La LIPE (comunicazione delle liquidazioni periodiche) si invia di norma entro
+  il 31 maggio (primo trimestre), il 30 settembre (secondo), il 30 novembre
+  (terzo) e a fine febbraio o con la dichiarazione IVA (quarto): verifica le
+  date dell'anno e ricordale al commercialista.
+- I versamenti trimestrali cadono il 16 maggio, il 20 agosto (per la
+  sospensione di agosto) e il 16 novembre; il quarto trimestre con il saldo
+  annuale.
 - Acconto IVA a fine dicembre.
 
 ## Bollo sulle fatture elettroniche
 
-Dal 2 € su ogni fattura esente o fuori campo IVA sopra 77,47 €. Ogni trimestre
+Il bollo di 2 € si applica a ogni fattura esente, non imponibile o fuori campo
+IVA sopra 77,47 € (non alle esportazioni e alle cessioni intracomunitarie). Ogni trimestre
 l'Agenzia pubblica in Fatture e Corrispettivi l'elenco A (fatture con bollo
 indicato) e l'elenco B (fatture che secondo l'Agenzia lo dovevano avere,
 modificabile per un periodo breve): quando escono, chiedi alla persona o al
@@ -71,22 +77,23 @@ rinvio per importi piccoli, da verificare ogni anno.
 
 ## Intrastat
 
-Solo se l'azienda ha scambi di beni o servizi con l'UE. Vendite: mensile sopra
-le soglie, altrimenti trimestrale, entro il 25. Acquisti di beni: dal 2026
-obbligo solo sopra una soglia trimestrale molto alta (verifica il valore
-dell'anno). Prepara i dati dalle fatture e mandali al commercialista o allo
+Solo se l'azienda ha scambi di beni o servizi con l'UE, entro il 25 del mese
+dopo il periodo. Soglie da verificare ogni anno; nel 2026: vendite trimestrali
+fino a 50.000 € a trimestre, mensili sopra; acquisti di beni solo sopra
+2.000.000 € a trimestre; acquisti di servizi mensili sopra 100.000 € a
+trimestre. Prepara i dati dalle fatture e mandali al commercialista o allo
 spedizioniere.
 
 ## Dichiarazioni d'intento
 
 Tieni un registro di quelle ricevute (cliente, protocollo, importo, periodo,
-importo già fatturato) e emesse. Prima di emettere una fattura senza IVA a un
+importo già fatturato) ed emesse. Prima di emettere una fattura senza IVA a un
 esportatore abituale, verifica il protocollo sul sito dell'Agenzia e scrivi
 in fattura gli estremi: senza verifica ci sono sanzioni.
 
 ## Novità da tenere presenti
 
-Le norme cambiano spesso. Dal 1° gennaio 2027 entra in vigore il nuovo Testo
-unico IVA, che sostituisce il DPR 633/1972: i riferimenti normativi su fatture
+Le norme cambiano spesso. Dal 1° gennaio 2027 si applica il nuovo Testo
+unico IVA, che sostituisce gran parte del DPR 633/1972: i riferimenti normativi su fatture
 e lettere cambiano. Quando citi un articolo, verifica che sia ancora quello in
 vigore.

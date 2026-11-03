@@ -25,10 +25,10 @@ nessuno.
 | Comunicazione di irregolarità (avviso bonario, controllo automatizzato o formale, art. 36-bis e 36-ter DPR 600/1973, art. 54-bis DPR 633/1972) | Agenzia delle Entrate | pagare con sanzione ridotta, rateizzare o chiedere chiarimenti | 60 giorni per le comunicazioni elaborate dal 2025 (prima erano 30; 90 se arrivano all'intermediario) |
 | Lettera di compliance | Agenzia delle Entrate | verificare un'anomalia e correggere con ravvedimento | indicato nella lettera |
 | Avviso di accertamento | Agenzia delle Entrate | pagare o fare ricorso | 60 giorni per il ricorso |
-| Cartella di pagamento | Agenzia Entrate-Riscossione | pagare, rateizzare o contestare | 60 giorni |
-| Avviso di addebito | INPS | contributi non pagati | 60 giorni |
+| Cartella di pagamento | Agenzia Entrate-Riscossione | pagare, rateizzare o contestare | pagare: 60 giorni; opporsi: 60 giorni per i tributi (corte di giustizia tributaria), 40 giorni per i contributi INPS e INAIL (giudice del lavoro) |
+| Avviso di addebito | INPS | contributi non pagati | pagare: 60 giorni; opporsi: 40 giorni (giudice del lavoro) |
 | Richieste e diffide | INPS, INAIL | documenti o pagamenti | indicato nell'atto |
-| Verbali e multe | Comune, Polizia | pagare in misura ridotta o fare ricorso | 5 giorni per lo sconto, 60 per pagare |
+| Verbali e multe | Comune, Polizia | pagare in misura ridotta o fare ricorso | 5 giorni per lo sconto, 60 per pagare; ricorso: 30 giorni al giudice di pace o 60 al prefetto. Su un veicolo aziendale, entro 60 giorni vanno comunicati i dati di chi guidava, anche se si fa ricorso: altrimenti arriva una seconda sanzione |
 | Atti giudiziari, decreti ingiuntivi | tribunale, avvocati | costituirsi o opporsi | molto brevi, per esempio 40 giorni per l'opposizione a un decreto ingiuntivo |
 
 Questa tabella orienta, non decide: il termine giusto è quello scritto
@@ -38,9 +38,10 @@ nell'atto e confermato dal commercialista o dall'avvocato.
    importo, termine, e cosa proponi.
 4. **Metti i promemoria** (`calendario-appuntamenti`): 15 giorni prima, 7
    giorni prima e il giorno prima del termine.
-5. **Passa l'atto** al commercialista (tributi, contributi) o all'avvocato
-   (atti giudiziari) con una email breve: allegato, data di notifica, termine,
-   domanda precisa. Annota la risposta e il seguito.
+5. **Prepara il passaggio** al commercialista (tributi, contributi) o
+   all'avvocato (atti giudiziari): una email breve con allegato, data di
+   notifica, termine e domanda precisa. Mostrala alla persona responsabile e
+   inviala dopo il suo sì. Annota la risposta e il seguito.
 
 ## Regole
 

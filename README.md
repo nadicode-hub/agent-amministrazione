@@ -23,7 +23,7 @@ Arrivano in pausa: si attivano in **Attività pianificate**.
 
 - Controllo PEC e fatture (`0 9 * * 1-5`)
 - Il punto del lunedì (`30 8 * * 1`)
-- Pacchetto mensile per il commercialista (`0 9 2 * *`)
+- Pacchetto mensile per il commercialista (`0 9 15 * *`)
 - Promemoria F24 del 16 (`0 9 9 * *`)
 
 ## Licenza
