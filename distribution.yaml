@@ -1,0 +1,18 @@
+name: amministrazione
+version: 1.0.0
+description: 'The office administrator of an Italian company: PEC, e-invoices with SDI, bank and prima
+  nota, payments and collections, F24 and tax deadlines, staff paperwork, and the monthly package for
+  the accountant.'
+author: nadicode
+license: Proprietary
+distribution_owned:
+- SOUL.md
+- config.yaml
+- cron/jobs.json
+- skills/chiusura-mensile
+- skills/comunicazioni-enti
+- skills/f24-e-adempimenti
+- skills/onboarding-amministrazione
+- skills/pagamenti-e-incassi
+- skills/personale-e-consulente
+- skills/prima-nota-e-banca

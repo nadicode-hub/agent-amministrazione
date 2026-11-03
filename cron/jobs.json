@@ -1,0 +1,190 @@
+{
+  "jobs": [
+    {
+      "id": "28894463d6a7",
+      "name": "Controllo PEC e fatture",
+      "prompt": "Controlla le PEC e le fatture elettroniche arrivate dall'ultimo controllo. Protocolla ogni PEC, riconosci gli atti di enti pubblici e calcolane il termine, segnala le fatture scartate dallo SDI o da contestare. Rispondi con un messaggio breve: cosa è arrivato, cosa è urgente e cosa proponi. Se non hai accesso alla casella PEC o al portale delle fatture, dillo in una riga e indica cosa serve.",
+      "skills": [
+        "integrazione-pec",
+        "fatturazione-elettronica-sdi",
+        "comunicazioni-enti"
+      ],
+      "skill": "integrazione-pec",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1-5",
+        "display": "0 9 * * 1-5"
+      },
+      "schedule_display": "0 9 * * 1-5",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-11-03T00:40:40.351861+01:00",
+      "next_run_at": "2026-11-03T09:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "c07d16cfd1ae",
+      "name": "Il punto del lunedì",
+      "prompt": "Prepara il punto amministrativo della settimana: saldo dei conti e movimenti da abbinare, proposta di pagamenti dei prossimi 10 giorni da approvare, clienti con fatture scadute e solleciti da inviare, previsione di cassa a quattro settimane, scadenze dei prossimi 14 giorni verificate sullo scadenzario ufficiale. Una pagina, numeri in tabella, e alla fine le decisioni che servono dalla persona.",
+      "skills": [
+        "prima-nota-e-banca",
+        "pagamenti-e-incassi",
+        "scadenzario"
+      ],
+      "skill": "prima-nota-e-banca",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 8 * * 1",
+        "display": "30 8 * * 1"
+      },
+      "schedule_display": "30 8 * * 1",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-11-03T00:40:40.371879+01:00",
+      "next_run_at": "2026-11-09T08:30:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "e058a5dee418",
+      "name": "Pacchetto mensile per il commercialista",
+      "prompt": "Prepara la chiusura del mese appena finito: il pacchetto per il commercialista con la lista di controllo e quello che manca, e il quadro del mese per il titolare. Mostra entrambi prima di inviare qualcosa al commercialista.",
+      "skills": [
+        "chiusura-mensile"
+      ],
+      "skill": "chiusura-mensile",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 2 * *",
+        "display": "0 9 2 * *"
+      },
+      "schedule_display": "0 9 2 * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-11-03T00:40:40.381482+01:00",
+      "next_run_at": "2026-12-02T09:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "6445d985c08b",
+      "name": "Promemoria F24 del 16",
+      "prompt": "Verifica sullo scadenzario ufficiale la scadenza dei versamenti di questo mese e prepara la bozza degli F24 da controllare con il commercialista: ritenute, IVA, contributi, rate in corso, con i codici tributo dalla tabella ufficiale. Controlla anche fatture differite e integrazioni TD17, TD18, TD19 in scadenza il 15. Segnala cosa manca per completare.",
+      "skills": [
+        "f24-e-adempimenti",
+        "scadenzario"
+      ],
+      "skill": "f24-e-adempimenti",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 9 * *",
+        "display": "0 9 9 * *"
+      },
+      "schedule_display": "0 9 9 * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-11-03T00:40:40.389436+01:00",
+      "next_run_at": "2026-11-09T09:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null
+    }
+  ],
+  "updated_at": "2026-11-03T00:40:40.395293+01:00"
+}
