@@ -42,7 +42,8 @@
       "last_delivery_unverified": null,
       "last_failure": null,
       "failure_streak": 0,
-      "deliver": "local",
+      "deliver": "all",
+      "failure_deliver": "bot-chat",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
@@ -89,7 +90,8 @@
       "last_delivery_unverified": null,
       "last_failure": null,
       "failure_streak": 0,
-      "deliver": "local",
+      "deliver": "all",
+      "failure_deliver": "bot-chat",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
@@ -134,7 +136,8 @@
       "last_delivery_unverified": null,
       "last_failure": null,
       "failure_streak": 0,
-      "deliver": "local",
+      "deliver": "all",
+      "failure_deliver": "bot-chat",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
@@ -180,7 +183,8 @@
       "last_delivery_unverified": null,
       "last_failure": null,
       "failure_streak": 0,
-      "deliver": "local",
+      "deliver": "all",
+      "failure_deliver": "bot-chat",
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
