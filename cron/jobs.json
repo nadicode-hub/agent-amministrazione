@@ -44,6 +44,7 @@
       "failure_streak": 0,
       "deliver": "all",
       "failure_deliver": "bot-chat",
+      "attach_to_session": true,
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
@@ -92,6 +93,7 @@
       "failure_streak": 0,
       "deliver": "all",
       "failure_deliver": "bot-chat",
+      "attach_to_session": true,
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
@@ -138,6 +140,7 @@
       "failure_streak": 0,
       "deliver": "all",
       "failure_deliver": "bot-chat",
+      "attach_to_session": true,
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
@@ -185,6 +188,7 @@
       "failure_streak": 0,
       "deliver": "all",
       "failure_deliver": "bot-chat",
+      "attach_to_session": true,
       "origin": null,
       "enabled_toolsets": null,
       "workdir": null
